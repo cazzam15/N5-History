@@ -539,7 +539,7 @@ const LINKS=[
   "Official past papers, marking instructions and course specification"
  ],
  [
-  "https://www.bbc.co.uk/bitesize/subjects/zrsj6sg",
+  "https://www.bbc.co.uk/bitesize/subjects/z2phvcw",
   "BBC Bitesize — Nat 5 History",
   "Notes and tests for each option"
  ],
